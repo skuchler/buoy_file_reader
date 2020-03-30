@@ -1,3 +1,7 @@
+buoy file reader
+=======
+`buoy_file_reader` is based on [`pynmea2`](https://github.com/Knio/pynmea2.git) by Tom Flanagan
+
 pynmea2
 =======
 
